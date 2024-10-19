@@ -6,7 +6,7 @@
   </p>
 </p>
 
-A simple and clean blog theme for [Hugo](https://gohugo.io/).
+A Gruvboxed fork of [Coder](https://github.com/luizdepra/hugo-coder), A simple and clean blog theme for [Hugo](https://gohugo.io/).
 
 ![](images/screenshot.png)
 
