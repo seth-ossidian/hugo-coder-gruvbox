@@ -1,3 +1,3 @@
-module github.com/luizdepra/hugo-coder
+module github.com/seth0xd/hugo-coder-gruvbox
 
 go 1.16
