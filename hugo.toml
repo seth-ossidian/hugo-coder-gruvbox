@@ -1,4 +1,4 @@
-baseURL = "https://seth0xd.xyz/"
+baseURL = "https://example.com/"
 
 [module]
 [module.hugoVersion]
